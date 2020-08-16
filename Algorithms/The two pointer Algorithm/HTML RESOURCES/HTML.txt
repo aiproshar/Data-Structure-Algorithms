@@ -1,0 +1,2 @@
+Tutorial : https://tp-iiita.quora.com/The-Two-Pointer-Algorithm
+Problems list : https://a2oj.com/Category.jsp?ID=96
