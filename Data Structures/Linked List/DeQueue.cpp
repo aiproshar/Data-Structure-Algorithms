@@ -1,4 +1,4 @@
-//Double Ended Quequ
+//Double Ended Queue
 //Contant push front/back
 //constant pop front/back
 //other than front/back element access,update all operations are O(n) :( 
