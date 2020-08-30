@@ -1,0 +1,8 @@
+In BD, there is high way connnection betwwen cities. After brief period of time, all the roads become unusable. The authority need to fix every road but
+they are low on budget.
+
+They want to calculate the toal minimum kilometers of road nneds to be repaired such a way that there exist a path between every city.
+
+Input : first line : integer E (E > 0) representing number of roads in bd
+	next E lines : U, V , W where is U and V are city names and W are their distance in KM
+Output : Minimum kilometers to be repaired

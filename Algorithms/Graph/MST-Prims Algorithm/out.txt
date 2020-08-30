@@ -1,0 +1,9 @@
+DHK adding Cost : 0
+COM adding Cost : 100
+SYL adding Cost : 200
+BOG adding Cost : 200
+RAJ adding Cost : 200
+DNJ adding Cost : 200
+KHN adding Cost : 250
+CTG adding Cost : 300
+1450

@@ -2,26 +2,12 @@
 //STL for clean and short code
 //O(V+E)
 //Maximum Vertex predefined
-
-#define LL                  long long
-#define UL                  unsigned long long
-#define PI                  acos(-1.0)
-#define Di(x)               int x;scanf("%d",&x)
-#define Si(x)               scanf("%d",&x);
-#define So(x)               printf("%d",x)
-#define pb                  push_back
-#define mp                  make_pair
-#define mset(name,value)    memset(name,value,sizeof(name))
-#define IO                  ios_base::sync_with_stdio(0);cin.tie(0)
-#define MOD                 1000000007
-#define READ                freopen("in.txt","r",stdin)
-#define WRITE               freopen("write.txt","w",stdout)
 //----------------------------------------------------------------------------------------
 #include<bits/stdc++.h>
 using namespace std;
 
 int V; //No of vertex. Must be defined in main function and smaller than V_max
-int V_max = 1000; //Maximum Vertex must be pre-defined for static allocation
+const int V_max = 1000; //Maximum Vertex must be pre-defined for static allocation
 
 vector<int> Adj[V_max]; //Adjacency list, [Vertex ID][Iteration over Adjacent nodes]
 vector<bool> visited;
@@ -74,16 +60,3 @@ int main()
     for(int i = 0; i < V ; i++)
         cout << level[i] << endl;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
